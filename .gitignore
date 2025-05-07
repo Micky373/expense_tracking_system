@@ -1,0 +1,5 @@
+.env
+checking.ipynb
+__pycache__
+server.log
+.pytest_cache
